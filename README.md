@@ -12,3 +12,4 @@ alias
 testando tudo
 tudo bem?
 sim, nao?
+tentando fazer commit
