@@ -10,3 +10,5 @@ testando  paragrafo
 p ola
 alias
 testando tudo
+tudo bem?
+sim, nao?
